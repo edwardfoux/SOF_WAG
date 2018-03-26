@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StackOverflowApiProject</string>
+    <string name="to_website">Website</string>
+    <string name="no_network">Please check connection!</string>
+    <string name="image">image</string>
+    <string name="gold">Gold</string>
+    <string name="silver">Silver</string>
+    <string name="broze">Bronze</string>
+</resources>
